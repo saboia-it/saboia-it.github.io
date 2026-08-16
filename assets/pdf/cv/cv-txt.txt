@@ -232,4 +232,4 @@ Research: Genealogy, History, Mathematics, Physics
 Other: Motorbike, Photography, Cooking, Snooker
 --------------------------------------------------------------
 Last updated at 2026-08-16. The most recent copy can be found at https://bruno.saboia.it/cv.
-Generated with https://github.com/brunosaboia/cv, commit 16b5d18.
+Generated with https://github.com/brunosaboia/cv, commit 00be27b.
